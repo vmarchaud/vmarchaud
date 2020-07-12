@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there ...... ..... 👋
+
+I'm a software architect currently working at @reelevant-tech as a Senior Devops/Backend. In my free time i like to work on the javascript sdk of the @opentelemetry project. 
+
+You can find my (almost empty) blog there: https://vmarchaud.fr
+
 
 <!--
 **vmarchaud/vmarchaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
