@@ -1,6 +1,6 @@
 ### Hello there ...... ..... 👋
 
-I'm a software architect currently working at [@reelevant-tech](https://github.com/reelevant-tech) as a Senior Devops/Backend. In my free time i like to work on the javascript sdk of the [@opentelemetry](https://github.com/open-telemetry) project. 
+I'm a software architect currently working at [@reelevant-tech](https://github.com/reelevant-tech) as a Product Manager/Architect (with a little bit of devops). In my free time i like to work on the javascript sdk of the [@opentelemetry](https://github.com/open-telemetry) project. 
 
 You can find my (almost empty) blog there: https://vmarchaud.fr
 
